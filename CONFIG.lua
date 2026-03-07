@@ -19,4 +19,9 @@ return {
 	-- true  = แสดง Debug Log ใน Console
 	-- false = ซ่อน
 	DebugMode = false,
+
+	--// [Anti-Tamper]
+	-- true  = ป้องกันการแก้ไขค่าหลักจากภายนอก
+	-- false = ปิด (ไม่แนะนำ)
+	AntiTamper = true,
 }
