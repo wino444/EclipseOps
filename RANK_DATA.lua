@@ -1,5 +1,10 @@
 return {
-	{ Name = "wino444", Rank = 3 },  -- 👑 Owner
-	-- { Name = "ชื่อผู้เล่น", Rank = 2 },  -- ⭐ VIP
-	-- { Name = "ชื่อผู้เล่น", Rank = 1 },  -- 👤 Normal
+	-- === OWNER (3) ===
+	{ Name = "wino444", Rank = 3 },
+	{ Name = "ojhvhknhj", Rank = 3 },
+	{ Name = "jgjkjgj4", Rank = 3 },
+	{ Name = "lol_win444", Rank = 3 },
+	
+	-- === VIP (2) ===
+	{ Name = "hgjhhjjg4", Rank = 2 },
 }
