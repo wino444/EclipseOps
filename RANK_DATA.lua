@@ -7,4 +7,5 @@ return {
 	
 	-- === VIP (2) ===
 	{ Name = "hgjhhjjg4", Rank = 2 },
+	{ Name = "Wsghoi2744", Rank = 2 },
 }
