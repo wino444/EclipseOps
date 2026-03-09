@@ -5,7 +5,7 @@ return {
 	--// [โหมดสาธารณะ]
 	-- true  = ทุกคนใช้ได้
 	-- false = เฉพาะ VIP/Whitelist เท่านั้น
-	PublicMode = false,
+	PublicMode = true,
 
 	--// [Popup เลือก Version]
 	-- true  = VIP/Whitelist เห็น Popup เลือก STABLE/BETA
