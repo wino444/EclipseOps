@@ -33,5 +33,6 @@ return {
 	{ Name = "Fooden55", Rank = 2 },
 	{ Name = "kskksk9292", Rank = 2 },
 	{ Name = "butmotroori0w", Rank = 2 },
+	{ Name = "RefK0n1_0056", Rank = 2 },
 	{ Name = "pro_exploiter", Rank = 2 },
 }
