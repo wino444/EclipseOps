@@ -24,4 +24,5 @@ return {
 	-- true  = ป้องกันการแก้ไขค่าหลักจากภายนอก
 	-- false = ปิด (ไม่แนะนำ)
 	AntiTamper = true,
+	AntiSpamShutdown = false,  -- BETA: บังคับปิด EO ถ้าเจอ spam
 }
